@@ -119,8 +119,10 @@ body {
 .item {
     width: 240px;
     padding: 25px;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+    /* box-shadow: 0 10px 25px rgba(0,0,0,0.05); */
     border-radius: 8px;
+    /* display: block;
+    opacity: 1; */
 }
 
 .item img {
